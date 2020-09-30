@@ -8,3 +8,4 @@ topic sub2
 topic psub
 topic sub3
 psub2
+another psub3
