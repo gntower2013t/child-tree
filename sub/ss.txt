@@ -9,3 +9,4 @@ topic psub
 topic sub3
 psub2
 another psub3
+psub4
